@@ -1,0 +1,24 @@
+{
+  "name": "track-hiit",
+  "version": "1.0.0",
+  "description": "a workout tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calipixie/track-hiit.git"
+  },
+  "keywords": [
+    "workout",
+    "fit",
+    "fitness"
+  ],
+  "author": "Kelsy Vaughn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calipixie/track-hiit/issues"
+  },
+  "homepage": "https://github.com/calipixie/track-hiit#readme"
+}
